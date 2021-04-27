@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 preserveAspectRatio="xMidYMid meet" width="150px" height="45px" viewBox="0 0 150 45" enable-background="new 0 0 150 45" xml:space="preserve">
-   
+
     <g id="group3">
         <path id="bezier" stroke="none" fill="rgb(246, 249, 248)" d="M 0.17,44.58 C -0.06,34.67 6.41,30.71 17.23,31.18 21.18,18.58 33.15,16.98 47.33,19.21 53.03,4 81.36,-5.57 100.01,4.85 106.54,8.5 109.9,13.9 115.06,18.73 133.25,11.7 153.19,25.88 149.17,44.58 99.51,44.58 49.83,44.58 0.17,44.58 Z M 0.17,44.58" />
         <path id="bezier2" stroke="none" fill="rgb(216, 229, 225)" d="M 80.52,29.98 C 84.54,29.98 87.79,26.87 87.79,23.04 L 73.24,23.04 C 73.24,26.87 76.5,29.98 80.52,29.98 Z M 80.52,29.98" />
