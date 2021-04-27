@@ -76,6 +76,11 @@ hr {
   margin-top: 100px;
 }
 
+.picture {
+  width: 200px;
+  margin: 0 auto;
+}
+
 .bio {
   width: 40%;
   margin: 0 auto;
@@ -108,11 +113,6 @@ hr {
 
 .footer-bio {
   width: 55%;
-  margin: 0 auto;
-}
-
-.picture {
-  width: 200px;
   margin: 0 auto;
 }
 
